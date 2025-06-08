@@ -7,7 +7,7 @@
 }
 
 body {
-    background-image: url("/fotos/fundo/fundo-jinwoo.jpg");
+    background-image: url("../fotos/fundo/fundo-jinwoo.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
